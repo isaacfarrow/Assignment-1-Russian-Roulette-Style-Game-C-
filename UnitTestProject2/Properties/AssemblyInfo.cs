@@ -2,18 +2,18 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("DodgeballTests")]
+[assembly: AssemblyTitle("UnitTestProject2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DodgeballTests")]
+[assembly: AssemblyProduct("UnitTestProject2")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("e83d34f3-3c26-437f-b0d5-97a4d2c2abf3")]
+[assembly: Guid("097eef0e-77d6-4dfd-b8a7-0b1bde64fc6b")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
