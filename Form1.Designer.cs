@@ -228,7 +228,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::RussianRoulette.Properties.Resources.dodgeball_logo;
+            this.BackgroundImage = global::RussianRoulette.Resource1.dodgeball_logo;
             this.ClientSize = new System.Drawing.Size(768, 450);
             this.Controls.Add(this.lblGP);
             this.Controls.Add(this.label3);
