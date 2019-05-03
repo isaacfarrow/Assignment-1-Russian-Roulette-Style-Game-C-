@@ -121,6 +121,8 @@
     <Content Include="Resources\8bit.wav">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\dodgeball-logo.jpg" />
+    <None Include="Resources\dodgeball.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
